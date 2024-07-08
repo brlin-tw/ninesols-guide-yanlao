@@ -55,12 +55,12 @@ platforms:
 Some hints that may help you in this fight:
 
 1. Avoid dodging the <span class="spoiler">claw</span> attacks which is not the designated solution of these attack patterns.
+1. The laser portion of the <span class="spoiler">consecutive sniping and crimson claw laser attack pattern</span> can be avoided in at least two ways while one gives you a big attack window, observe and use the surrounding environments!
 1. The <span class="spoiler">Swift Rise</span> skill reduces the vulnerability window after you are knocked down by the boss's attack.
 1. The <span class="spoiler">Quick Dose</span> jade reduces the vulnerability window when you're healing.
 1. The <span class="spoiler">Revival</span> jade gives you a second chance when receiving too much Direct Damage.
 1. It is possible to increase your <span class="spoiler">maximum health</span> by using a certain in-game mechanic, try to discover/make good use of it.
 1. The <span class="spoiler">Immortal Dash</span> and the <span class="spoiler">Air Dash</span> skill give you I-frames to dodge the <span class="spoiler">laser beam</span> attacks during <span class="spoiler">the second phase</span>.
-1. The laser portion of the <span class="spoiler">consecutive sniping and crimson claw laser attack pattern</span> can be avoided in at least two ways while one gives you a big attack window, observe and use the surrounding environments!
 1. As a last resort, switch to Story Mode and reduce the received damage modifier to allow you more time to practice, you can tweak back to normal difficulty at any time!
 
 Good luck!
@@ -72,12 +72,12 @@ Good luck!
 Some hints that may help you in this fight:
 
 1. Avoid dodging the ||claw|| attacks which is not the designated solution of these attack patterns.
+1. The laser portion of the ||consecutive sniping and crimson claw laser attack pattern|| can be avoided in at least two ways while one gives you a big attack window, observe and use the surrounding environments!
 1. The ||Swift Rise|| skill reduces the vulnerability window after you are knocked down by the boss's attack.
 1. The ||Quick Dose|| jade reduces the vulnerability window when you're healing.
 1. The ||Revival|| jade gives you a second chance when receiving too much Direct Damage.
 1. It is possible to increase your ||maximum health|| by using a certain in-game mechanic, try to discover/make good use of it.
 1. The ||Immortal Dash|| and the ||Air Dash|| skill give you I-frames to dodge the ||laser beam|| attacks during ||the second phase||.
-1. The laser portion of the ||consecutive sniping and crimson claw laser attack pattern|| can be avoided in at least two ways while one gives you a big attack window, observe and use the surrounding environments!
 1. As a last resort, switch to Story Mode and reduce the received damage modifier to allow you more time to practice, you can tweak back to normal difficulty at any time!
 
 Good luck!
@@ -90,12 +90,12 @@ Some hints that may help you in this fight:
 
 [olist]
     [*] Avoid dodging the [spoiler]claw[/spoiler] attacks which is not the designated solution of these attack patterns.
+    [*] The laser portion of the [spoiler]consecutive sniping and crimson claw laser attack pattern[/spoiler] can be avoided in at least two ways while one gives you a big attack window, observe and use the surrounding environments!
     [*] The [spoiler]Swift Rise[/spoiler] skill reduces the vulnerability window after you are knocked down by the boss's attack.
     [*] The [spoiler]Quick Dose[/spoiler] jade reduces the vulnerability window when you're healing.
     [*] The [spoiler]Revival[/spoiler] jade gives you a second chance when receiving too much Direct Damage.
     [*] It is possible to increase your [spoiler]maximum health[/spoiler] by using a certain in-game mechanic, try to discover/make good use of it.
     [*] The [spoiler]Immortal Dash[/spoiler] and the [spoiler]Air Dash[/spoiler] skill give you I-frames to dodge the [spoiler]laser beam[/spoiler] attacks during [spoiler]the second phase[/spoiler].
-    [*] The laser portion of the [spoiler]consecutive sniping and crimson claw laser attack pattern[/spoiler] can be avoided in at least two ways while one gives you a big attack window, observe and use the surrounding environments!
     [*] As a last resort, switch to Story Mode and reduce the received damage modifier to allow you more time to practice, you can tweak back to normal difficulty at any time!
 [/olist]
 
