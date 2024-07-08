@@ -14,6 +14,11 @@ longer challenging.
 
 ## Disclaimer
 
+This section documents the disclaimer text that is meant to be read by the users
+of this guide.
+
+### Markdown
+
 DO NOT use this guide to spoil or backseat the streamer playing this game.  The
 only circumstances that the content may be used in such circumstances are:
 
@@ -25,6 +30,19 @@ only circumstances that the content may be used in such circumstances are:
 Ruining other's blind play-through without permission is NOT OKAY and is a
 serious offense to streamers, other content creators of this game, and to
 the author of this guide.
+
+### Steam-flavored BBCode
+
+```bbcode
+DO NOT use this guide to spoil or backseat the streamer playing this game.  The only circumstances that the content may be used in such circumstances are:
+
+[list]
+    [*] The streamer is stuck in this fight AND the streamer specifically ask for hints for beating this battle.
+    [*] You have asked whether spoilers/hints are allowed in advance AND the streamer proactively accepts the offer.
+[/list]
+
+Ruining other's blind play-through without permission is NOT OKAY and is a serious offense to streamers, other content creators of this game, and to the author of this guide.
+```
 
 ## Hints
 
