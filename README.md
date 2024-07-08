@@ -74,7 +74,7 @@ Good luck!
 
 The following external materials are referenced during the writing of this article:
 
-* [A guide to Markdown on Discord.](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
+* [A guide to Markdown on Discord.](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  
   Explains how to write proper list markups on Discord servers.
 * [Markdown Github to BBCode Feral converter](https://feralhosting.github.io/)  
   Features a utility to automatically convert GitHub-flavored Markdown(GFM) to BBCode.
