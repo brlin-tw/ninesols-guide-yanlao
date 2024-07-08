@@ -12,6 +12,19 @@ longer challenging.
 
 [TOC]
 
+## Disclaimer
+
+DO NOT use this guide to spoil or backseat the streamer playing this game.  The
+only circumstances that the content may be used in such circumstances is:
+
+* The streamer is stuck in this fight AND the streamer specifically ask for
+  hints for beating this battle.
+* You asked whether spoiler/hint is allowed in advance AND the streamer
+  proactively accepts the offer.
+
+Ruining other's blind play-through without permission is NOT OKAY and is a
+serious offense to the streamer or other content creator of this game.
+
 ## Hints
 
 This section documents the hints in various markup languages used in different
