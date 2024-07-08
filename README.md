@@ -23,7 +23,7 @@ DO NOT use this guide to spoil or backseat the streamer playing this game.  The
 only circumstances that the content may be used in such circumstances are:
 
 * The streamer is stuck in this fight AND the streamer specifically asks for
-  hints for beating this battle.
+  hints for beating this boss.
 * You have asked whether spoilers/hints are allowed in advance AND the streamer
   proactively accepts the offer.
 
@@ -37,7 +37,7 @@ the author of this guide.
 DO NOT use this guide to spoil or backseat the streamer playing this game.  The only circumstances that the content may be used in such circumstances are:
 
 [list]
-    [*] The streamer is stuck in this fight AND the streamer specifically ask for hints for beating this battle.
+    [*] The streamer is stuck in this fight AND the streamer specifically ask for hints for beating this boss.
     [*] You have asked whether spoilers/hints are allowed in advance AND the streamer proactively accepts the offer.
 [/list]
 
