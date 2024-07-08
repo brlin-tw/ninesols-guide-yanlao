@@ -5,7 +5,7 @@ longer challenging.
 
 ![Article branding image that shows a mechanical claw of the claw machine arcade game in Taiwan](branding.512px.jpg "A mechanical claw of the claw machine arcade game in Taiwan")
 
-<https://gitlab.com/brlin/ninesols-guide-yanlao>  
+<https://steamcommunity.com/sharedfiles/filedetails/?id=3284752109>  
 [![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/brlin/ninesols-guide-yanlao/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/brlin/ninesols-guide-yanlao/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/brlin-tw/ninesols-guide-yanlao/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/brlin-tw/ninesols-guide-yanlao/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/brlin/ninesols-guide-yanlao "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/brlin/ninesols-guide-yanlao)
 
 ## Table of contents
@@ -100,6 +100,20 @@ Some hints that may help you in this fight:
 [/olist]
 
 Good luck!
+```
+
+## Source
+
+This section documents the source of this guide.
+
+### Markdown
+
+The source code of this guide is hosted on [GitLab](https://gitlab.com/brlin/ninesols-guide-yanlao), feel free to file issues and send pull/merge requests to improve this guide!
+
+### Steam-flavored BBCode
+
+```bbcode
+The source code of this guide is hosted on [url=https://gitlab.com/brlin/ninesols-guide-yanlao]GitLab[/url], feel free to file issues and send pull/merge requests to improve this guide!
 ```
 
 ## References
