@@ -15,15 +15,16 @@ longer challenging.
 ## Disclaimer
 
 DO NOT use this guide to spoil or backseat the streamer playing this game.  The
-only circumstances that the content may be used in such circumstances is:
+only circumstances that the content may be used in such circumstances are:
 
-* The streamer is stuck in this fight AND the streamer specifically ask for
+* The streamer is stuck in this fight AND the streamer specifically asks for
   hints for beating this battle.
-* You asked whether spoiler/hint is allowed in advance AND the streamer
+* You have asked whether spoilers/hints are allowed in advance AND the streamer
   proactively accepts the offer.
 
 Ruining other's blind play-through without permission is NOT OKAY and is a
-serious offense to the streamer or other content creator of this game.
+serious offense to streamers, other content creators of this game, and to
+the author of this guide.
 
 ## Hints
 
